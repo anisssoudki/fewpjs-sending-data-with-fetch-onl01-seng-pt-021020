@@ -1,4 +1,4 @@
-unction submitData(userName, userEmail){
+function submitData(userName, userEmail){
 
     let formData = {
         name: userName,
